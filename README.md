@@ -14,7 +14,7 @@
 
 아래 버튼을 누릅니다.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FGITHUBsycsally%2Fchiwonvibe-firstdeploy&repository-name=chiwon-myname)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fsycsally%2Fchiwonvibe-firstdeploy&repository-name=chiwon-myname)
 
 1. 저장소 이름 칸의 `chiwon-myname`에서 `myname`을 내 영문 이름으로 바꿉니다. 예: `chiwon-gildong`
 2. `Create`를 누르고 1분쯤 기다립니다
